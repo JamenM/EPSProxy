@@ -1,0 +1,24 @@
+.button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  /*opacity: 1;*/
+  transition: 0.3s;
+  /*display: inline-block;*/
+  text-decoration: none;
+  cursor: pointer;
+  border: 2px solid darkgreen;
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: darkgreen;
+  color: white;
+}
