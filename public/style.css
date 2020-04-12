@@ -1,0 +1,25 @@
+div {
+  display: block;
+  margin: auto;
+  text-align: center;
+  padding-top: 0px;
+}
+
+.search {
+  width: 200px;
+  height: 50px;
+  border: none;
+  padding-right: 30px;
+  font: 16px arial, sans-serif;
+  text-indent: 5px;
+  background-repeat: no-repeat;
+  background-position: 548px 4px;
+  background-size: 200px 19px;
+  color: black;
+  background-color: lightgreen;
+  inputid="url" type="text" placeholder="URL"  name="url"
+  background-attachment: fixed;
+}
+
+.search:hover {
+}
